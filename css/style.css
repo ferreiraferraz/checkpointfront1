@@ -1,0 +1,64 @@
+
+body {
+    background-image: url(/images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+
+}
+
+.cabecalho {
+    background: rgb(2,0,36);
+    font-family: 'Praise', cursive;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(255, 157, 0);
+    margin: -20px;
+    padding: 10px; 
+}
+
+.descricao {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 45px;
+    margin: auto;
+ }
+
+.framevideo {
+  margin: auto;
+  padding: 0px;
+  width: 1280px; 
+  height: 720px;
+}
+
+.cabecalhocuriosidades{
+    background: rgb(2,0,36);
+    font-family: 'Praise', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 157, 0);
+    margin: -90px;
+    padding: 80px;
+}
+
+.listas {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    list-style: none;
+    color: rgb(255, 255, 255);
+}
+
+.rodape {
+    font-family: 'Roboto', sans-serif;
+    color: blanchedalmond;
+    margin: 4%;
+    width: 80px;
+    height: 60px;
+    display: flex;
+    padding-left: 37%;
+    margin-right: 15px;
+}
